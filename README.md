@@ -4,8 +4,8 @@
 ## Timeline
 |Date|Contents|
 |:---:|:---:|
-|10/29 - 11/11|Model test & Code review|
-|11/12 - 11/25|Algorithm design|
-|11/26 - 12/9|Demo application|
-|12/10 - 12/16|Writing article / Preparing presentation|
-|12/17|Submission|
+|10/29 - 11/4|Model test & Code review|
+|11/5 - 11/18|Algorithm design|
+|11/19 - 12/2|Demo application|
+|12/3 - 12/9|Writing article / Preparing presentation|
+|12/10|Submission|
